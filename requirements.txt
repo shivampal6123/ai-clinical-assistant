@@ -2,11 +2,10 @@ streamlit
 langchain
 langchain-community
 langchain-core
+langchain-groq
 faiss-cpu
 sentence-transformers
-groq
+pypdf
 gtts
 reportlab
-pypdf
 pillow
-longchain-groq
